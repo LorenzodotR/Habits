@@ -1,8 +1,10 @@
+import Header from "../assets/components/Header";
+
 function Habit_List() {
 
     return (
         <div>
-            <h1>Habit List</h1>
+            <Header></Header>
         </div>
     );
 }
